@@ -19,7 +19,7 @@ const IndexPage = () => (
           <Image />
         </div>
       </div>
-      <Link to="/PackageGrid/">View all posts</Link>
+      <Link to="/PackageGrids/">View all posts</Link>
     </div>
   </Layout>
 );
